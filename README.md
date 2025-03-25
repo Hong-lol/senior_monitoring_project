@@ -1,3 +1,4 @@
-# senior_monitoring_project
+senior_monitoring_project
 # 개요
-2인용 탑 쌓기 게임. 2024-2 모바일 프로그래밍 팀프로젝트
+CNN 기반 노인 자세 분석을 통한
+실시간 모니터링 시스템
