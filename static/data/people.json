@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "김영호",
+      "age": 78,
+      "location": "거실",
+      "status": "normal",
+      "heart_rate": 82,
+      "activity_status": "적은 움직임",
+      "temperature": 36.5,
+      "humidity": 65
+    },
+    {
+      "id": 2,
+      "name": "이미자",
+      "age": 75,
+      "location": "침실",
+      "status": "warning",
+      "heart_rate": 68,
+      "activity_status": "움직임 없음",
+      "temperature": 37.2,
+      "humidity": 55
+    },
+    {
+      "id": 3,
+      "name": "박준수",
+      "age": 82,
+      "location": "화장실",
+      "status": "danger",
+      "heart_rate": 98,
+      "activity_status": "넘어짐 감지",
+      "temperature": 38.1,
+      "humidity": 60
+    },
+    {
+      "id": 4,
+      "name": "최순희",
+      "age": 73,
+      "location": "주방",
+      "status": "normal",
+      "heart_rate": 76,
+      "activity_status": "활발한 움직임",
+      "temperature": 36.6,
+      "humidity": 62
+    },
+    {
+      "id": 5,
+      "name": "장정수",
+      "age": 80,
+      "location": "침실",
+      "status": "normal",
+      "heart_rate": 72,
+      "activity_status": "휴식 중",
+      "temperature": 36.4,
+      "humidity": 58
+    }
+  ]
