@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "person_id": 1,
+      "title": "약 복용 시간",
+      "details": "식사 후 혈압약",
+      "alert_type": "info",
+      "timestamp": "2025-03-20T08:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "person_id": 1,
+      "title": "건강 체크 일정",
+      "details": "월간 건강 검진",
+      "alert_type": "info",
+      "timestamp": "2025-03-21T10:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "person_id": 1,
+      "title": "방문 간호사 예약",
+      "details": "정기 방문",
+      "alert_type": "info",
+      "timestamp": "2025-03-21T14:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "person_id": 2,
+      "title": "활동 감소 감지",
+      "details": "2시간 이상 움직임 없음",
+      "alert_type": "warning",
+      "timestamp": "2025-03-20T14:30:00.000Z"
+    },
+    {
+      "id": 5,
+      "person_id": 2,
+      "title": "약 복용 시간",
+      "details": "혈압약 복용 시간",
+      "alert_type": "info",
+      "timestamp": "2025-03-20T12:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "person_id": 3,
+      "title": "넘어짐 감지",
+      "details": "화장실에서 넘어짐 감지됨",
+      "alert_type": "danger",
+      "timestamp": "2025-03-20T15:15:00.000Z"
+    },
+    {
+      "id": 7,
+      "person_id": 3,
+      "title": "고열 알림",
+      "details": "체온이 38도 이상으로 상승",
+      "alert_type": "warning",
+      "timestamp": "2025-03-20T14:20:00.000Z"
+    }
+  ]
